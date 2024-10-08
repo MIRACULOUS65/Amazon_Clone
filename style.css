@@ -170,4 +170,11 @@ body{
     font-size: 1.2vw;
     font-weight: 700;
 }
-
+.hero-section{
+    background-image: url("assets/J24_GW_PC_non-prime_RNP--unrec_end-frame_Shop-now_2X_R1._CB562558129_.jpg");
+    height: 400px;
+    background-size: cover;
+}
+.box1{
+    margin-top: 401px;
+}
