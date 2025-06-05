@@ -7,7 +7,7 @@ A **pixel-perfect front-end clone of Amazon’s homepage**, built using **HTML**
 
 ## 📸 Live Preview
 
-![Amazon Clone Screenshot](./83e3e0df-89f1-47ba-b928-d2d885f099e9.png)
+![Amazon Clone Screenshot](./Screenshot%202025-06-05%20182826.jpg)
 
 > A clean clone of the Amazon homepage featuring product categories, navigation bar, and banner.
 
